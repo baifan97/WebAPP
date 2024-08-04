@@ -1,4 +1,6 @@
-
+<p align="center">
+    <img src=https://github.com/baifan97/WebAPP/blob/main/web/img/logo256.png width=138/>
+</p>
 <h1 align="center">轻松构建轻量级多端桌面应用</h1>
 <h2 align="center">WhiteFan</h1>
 
