@@ -1,17 +1,15 @@
 <p align="center">
     <img src=https://github.com/baifan97/WebAPP/blob/main/web/img/logo256.png />
 </p>
-<h1 align="center">轻松构建轻量级多端桌面应用</h1>
-<h2 align="center">WhiteFan</h1>
 
-### 本程序实现了：只需要提供一个网页链接，就能轻松构建 Mac / Windows / Linux / Android 多端程序
+## 轻松构建轻量级多端桌面应用
+
+#### 本程序实现：只需要提供一个网页链接，就能轻松构建 Mac / Windows / Linux / Android 多端应用程序
 <p align="center">
     <img src=https://github.com/baifan97/WebAPP/blob/main/img/webimg.png />
 </p>
 
-
-
-## 特征
+## 特性
 
 - 🎐 相比传统的套壳打包，安装包可以做到很小，5M 上下。
 - 🚀 性能高，且内存小。
