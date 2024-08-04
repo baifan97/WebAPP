@@ -1,12 +1,12 @@
 <p align="center">
-    <img src=https://720.baifan97.cn/img/logo256.png width=138/>
+    <img src=https://github.com/baifan97/WebAPP/blob/main/web/img/logo256.png />
 </p>
 <h1 align="center">轻松构建轻量级多端桌面应用</h1>
 <h2 align="center">WhiteFan</h1>
 
 ### 本程序实现了：只需要提供一个网页链接，就能轻松构建 Mac / Windows / Linux / Android 多端程序
 <p align="center">
-    <img src=https://github.com/baifan97/WebAPP/blob/main/img/webimg.png width=138/>
+    <img src=https://github.com/baifan97/WebAPP/blob/main/img/webimg.png />
 </p>
 
 
